@@ -18,6 +18,3 @@ You can’t redistribute the Item on its own, as stock, in a tool or template, o
 Source: http://shw.in/sozai/audio120402/tsudzumi-japan3.mp3
 
 License info: http://en.shw.in/
-
-
-
