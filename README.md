@@ -78,7 +78,7 @@ We'd love to hear how you're using DodgeBall - if you've customized the environm
 
 This environment is intended to provide an example of using ML-Agents in a cooperative/competitive game-like scenario, and it is not intended to be a finished game. While we will do our best to keep it updated, support of later versions of ML-Agents or additional content is not guaranteed.
 
-If you do run into any issues or bugs with DodgeBall, please file an [Issue](https://github.com/Unity-Technologies/ml-agents/issues) on Github.
+If you do run into any issues or bugs with DodgeBall, please file an [Issue](https://github.com/Unity-Technologies/ml-agents-dodgeball-env/issues) on Github.
 
 ## License
 
